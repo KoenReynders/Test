@@ -15,6 +15,7 @@ namespace Test
             Console.WriteLine("Deze regel is op de GITHUB bijgevoegd");
             Console.WriteLine("Efficiënter programa in branch EfficiënterProgramma gemaakt");
             Console.WriteLine("Regel x bijgevoegd");
+            Console.WriteLine("Regel y bijgevoegd");
         }
     }
 }
