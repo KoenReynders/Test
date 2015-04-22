@@ -11,6 +11,7 @@ namespace Test
         static void Main(string[] args)
         {
             Console.WriteLine("Regel ingetypt na eerste commit");
+            Console.WriteLine("Derde commit");
         }
     }
 }
