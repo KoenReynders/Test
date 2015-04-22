@@ -16,6 +16,7 @@ namespace Test
             Console.WriteLine("Efficiënter programa in branch EfficiënterProgramma gemaakt");
             Console.WriteLine("Regel x bijgevoegd");
             Console.WriteLine("Regel y bijgevoegd");
+            Console.WriteLine("Regel z bijgevoegd");
         }
     }
 }
