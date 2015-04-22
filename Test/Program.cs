@@ -12,7 +12,7 @@ namespace Test
         {
             Console.WriteLine("Regel ingetypt na eerste commit");
             Console.WriteLine("Derde commit");
-            Console.Writeline("Deze regel is op de GITHUB bijgevoegd");
+            Console.WriteLine("Deze regel is op de GITHUB bijgevoegd");
         }
     }
 }
